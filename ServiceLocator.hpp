@@ -3,7 +3,6 @@
 #include <typeinfo>
 #include <string>
 #include <map>
-#include <stdlib.h>
 class ServiceLocator
 {
 private:
